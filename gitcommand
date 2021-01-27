@@ -1,5 +1,9 @@
 git clone
 # to push a coad
+what ever the doveloper edited or add the coad to push hube
 git add file name or use "." what wher edited data
 git commit -m "message"
 git push
+# To full command before work start what ever some other developers writed the coad use get the coad in local repo 
+git pull
+
