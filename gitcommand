@@ -1,1 +1,5 @@
 git clone
+# to push a coad
+git add file name or use "." what wher edited data
+git commit -m "message"
+git push
